@@ -4,1046 +4,2238 @@
   <includedXmlFiles />
   <includedDataFiles />
   <dataFiles>
-	<Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/loadouts.meta</filename>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/loadouts.meta</filename>
       <fileType>LOADOUTS_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts.meta</filename>
       <fileType>VEHICLE_LAYOUTS_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponanimations.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_bruiser.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_monster3.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_scarab.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_issi4.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_bruiser.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_deathbike.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_flame.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_issi4.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_monster3.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_scarab.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_mines.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_mines_rc.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_mortar.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_xmas18.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/weaponanimations.meta</filename>
       <fileType>WEAPON_ANIMATIONS_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponAutoShotgun.meta</filename>
-      <fileType>WEAPONINFO_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponBattleAxe.meta</filename>
-      <fileType>WEAPONINFO_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponCompactLauncher.meta</filename>
-      <fileType>WEAPONINFO_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/weaponcomponents.meta</filename>
       <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponMiniSMG.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/weapons_arena.meta</filename>
       <fileType>WEAPONINFO_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponPipeBomb.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/ai/weapons_spacerangers.meta</filename>
       <fileType>WEAPONINFO_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponPoolCue.meta</filename>
-      <fileType>WEAPONINFO_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/ai/weaponWrench.meta</filename>
-      <fileType>WEAPONINFO_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
       <fileType>CLIP_SETS_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/effects/explosionfx.dat</filename>
-      <fileType>EXPLOSIONFX_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/carcols.meta</filename>
-      <fileType>CARCOLS_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBikerCRC:/common/data/levels/gta5/vehicles.meta</filename>
-      <fileType>VEHICLE_METADATA_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/carvariations.meta</filename>
-      <fileType>VEHICLE_VARIATION_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/contentunlocks.meta</filename>
-      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/common/data/dlctext.meta</filename>
-      <fileType>TEXTFILE_METAFILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/explosion.meta</filename>
-      <fileType>EXPLOSION_INFO_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/common/data/interiorproxies.meta</filename>
+      <filename>dlc_mpChristmas2018:/common/data/interiorProxies.meta</filename>
       <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
       <overlay value="false"/>
       <disabled value="true"/>
       <persistent value="false"/>
     </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/mpStatsSetup.xml</filename>
-      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/mpchristmasbanners.rpf</filename>
+      <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/common/data/mpStatsUISetup.xml</filename>
-      <fileType>MP_STATS_UI_LIST_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
     </Item>
 	<Item>
-      <filename>dlc_mpBiker:/common/data/overlayinfo.xml</filename>
-      <fileType>OVERLAY_INFO_FILE</fileType>
+      <filename>dlc_mpChristmas2018:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
       <overlay value="false"/>
       <disabled value="true"/>
       <persistent value="false"/>
     </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/pedpersonality.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/pedpersonality.meta</filename>
       <fileType>PED_PERSONALITY_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/pickups.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/pickups.meta</filename>
       <fileType>DLC_WEAPON_PICKUPS</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/shop_tattoo.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/shop_tattoo.meta</filename>
       <fileType>TATTOO_SHOP_DLC_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/shop_vehicle.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/shop_vehicle.meta</filename>
       <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/shop_weapon.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/shop_weapon.meta</filename>
       <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/weaponArchetypes.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/weaponArchetypes.meta</filename>
       <fileType>WEAPON_METADATA_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
 	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/vehicles/mpChristmas2018.rpf</filename>
       <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="true" />
     </Item>
 	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_06.rpf</filename>
-      <fileType>RPF_FILE</fileType>
+      <filename>dlc_mpChristmas2018CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
-      <persistent value="true" />
+      <persistent value="false" />
+    </Item> 
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_07.rpf</filename>
-      <fileType>RPF_FILE</fileType>
+      <filename>dlc_mpChristmas2018:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_23.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
+      <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_occl.rpf</filename>
-      <fileType>RPF_FILE</fileType>
+      <filename>dlc_mpChristmas2018CRC:/common/data/contentunlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
-      <persistent value="true" />
-      <loadCompletely value="true" />
-      <contents>CONTENTS_DLC_MAP_DATA</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
+      <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01_metadata.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-      <loadCompletely value="true" />
-      <contents>CONTENTS_DLC_MAP_DATA</contents>
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_interior_placement.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-      <contents>CONTENTS_DLC_MAP_DATA</contents>
-    </Item>
-  	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_01.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_02.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_03.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware01.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware02.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware03.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware04.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware05.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Biker_DLC_Int_Props.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Biker_DLC_Int_Props.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Coke.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Coke.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_FakeID.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_FakeID.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Meth.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Meth.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Weed.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Weed.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_GunLocker.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_GunLocker.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_PrintingMachines.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_PrintingMachines.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Money.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Money.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Mp_Biker_Deadline_Jumps.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Mp_Biker_Deadline_Jumps.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Mp_Biker_Deadline_Tubes.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Mp_Biker_Deadline_Tubes.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_rt_clubhouse_table.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_rt_clubhouse_table.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Memorial_Wall.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Memorial_Wall.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Clubhouse_Seating.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Clubhouse_Seating.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Slow_Down.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Slow_Down.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Clubhouse_Jukebox.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Clubhouse_Jukebox.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-    <Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/mp_biker_Clubhouse.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_mp_biker_Clubhouse.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/mp_biker_deadline.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_mp_biker_deadline.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
- 	<Item>	
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Grenades.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Grenades.ityp</filename>
-      <fileType>DLC_ITYP_REQUEST</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-      <contents>CONTENTS_PROPS</contents>
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/handling.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/handling.meta</filename>
       <fileType>HANDLING_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
 	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/gta5/vehicles/mpbikervehicles.rpf</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/monster3_mods.rpf</filename>
       <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/wheels3_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>    
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/zombiea_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/zombieb_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/daemon2_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/avarus_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/sanctus_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/tornado6_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>       
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/defiler_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>    
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/vortex_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/nightblade_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item> 
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/ratbike_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/chimera_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/esskey_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/hakuchou2_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item> 
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/wolfsbane_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/blazer4_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item> 
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/manchez_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>   
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/faggio3_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/youga2_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/shotaro_mods.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>        
-  	<Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false"/>
-      <disabled value="true"/>
-      <persistent value="true"/>
-    </Item>
-		<Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/DLCBIKER_game.dat</filename>
-      <fileType>AUDIO_GAMEDATA</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/DLCBIKER_sounds.dat</filename>
-      <fileType>AUDIO_SOUNDDATA</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
     </Item>
 	<Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/DLCBIKER_mix.dat</filename>
-      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/monster4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
-      <persistent value="false" />
+      <persistent value="true" />
     </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/monster5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/arenamod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/imperator_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/imperator2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/imperator3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/vamos_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deveste_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/brutus_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/brutus2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/brutus3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deviant_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/clique_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/scarab_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/scarab2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/scarab3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/issi4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/issi5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/issi6_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/italigto_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/toros_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/cerberus_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/cerberus2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/cerberus3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/schlagen_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/tulip_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/dominator4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/dominator5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/dominator6_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/zr380_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/zr3802_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/zr3803_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
     <Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/DLCBIKER_amp.dat</filename>
-      <fileType>AUDIO_SYNTHDATA</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/DLCBIKER_speech.dat</filename>
-      <fileType>AUDIO_SPEECHDATA</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/sfx/DLC_BIKER</filename>
-      <fileType>AUDIO_WAVEPACK</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-	<Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/bruiser_mods.rpf</filename>
       <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="true" />
     </Item>
     <Item>
-      <filename>dlc_mpBIKER:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/bruiser2_mods.rpf</filename>
       <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="true" />
     </Item>
     <Item>
-      <filename>dlc_mpBIKER:/common/data/effects/scriptfx.dat</filename>
-      <fileType>SCRIPTFX_FILE</fileType>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/bruiser3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deathbike_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="true" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/mp_f_freemode_01_biker_shop.meta</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deathbike2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deathbike3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/slamvan4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/slamvan5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/slamvan6_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	 <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/rcbandito_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	 <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Drones.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Drones.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Rubbish_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Rubbish_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Trinkets.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Trinkets.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Rising.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Rising.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Rising_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Rising_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Side.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Side.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Side_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Side_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Side_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Side_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Cutscene.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Cutscene.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Icons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Icons.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Fences.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Fences.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Fences_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Fences_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Fences_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Fences_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Flippers.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Flippers.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Flippers_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Flippers_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Mines.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Mines.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Mines_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Mines_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Mines_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Mines_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Fire.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Fire.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Fire_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Fire_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Plates.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Plates.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Plates_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Plates_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Plates_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Plates_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Screens.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Screens.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Spikes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Spikes.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turntables.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turntables.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Rising.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Rising.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Rising_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Rising_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Rising_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Rising_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Tyres.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Tyres.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Tyres_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Tyres_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Tyres_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Tyres_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Trophies.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Trophies.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Wedges.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Wedges.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turrets.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turrets.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turrets_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turrets_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turrets_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turrets_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Slowdown.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Slowdown.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Des_Buildings.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Des_Buildings.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Des_Buildings_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Des_Buildings_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Des_Skin.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Des_Skin.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Accs.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Accs.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Accs_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Accs_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Flippers_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Flippers_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Wedges_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Wedges_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Wedges_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Wedges_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turntables_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turntables_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turntables_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turntables_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Track_Lights_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Track_Lights_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Lights_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Lights_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Stunt.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Stunt.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Stunt_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Stunt_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Stunt_Wasteland.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Stunt_Wasteland.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pipes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pipes.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Towers.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Towers.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Obstacles_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Obstacles_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Rising_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Rising_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Fire_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Fire_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Spikes_Scifi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Spikes_Scifi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Christmas.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Christmas.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Combined.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Combined.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Combined_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Combined_02.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Terrain.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Terrain.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_02.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_03.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_04.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_05.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_structure.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_structure.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_lounge_garage.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_lounge_garage.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/x18dlc_int_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/x18dlc_int_mod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/x18dlc_int_vip.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/int_placement_xs.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_female.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/mp_f_freemode_01_mpchristmas2018_shop.meta</filename>
       <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBikerCRC:/common/data/mp_m_freemode_01_biker_shop.meta</filename>
-      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="false" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_male.rpf</filename>
       <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="true" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/common/data/effects/peds/first_person.meta</filename>
-      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/mp_m_freemode_01_mpchristmas2018_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/common/data/effects/peds/first_person_alternates.meta</filename>
-      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/peds/mpchristmas2018.rpf</filename>
+      <fileType>RPF_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
-      <persistent value="false" />
+      <persistent value="true" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/common/data/peds.meta</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/peds/mpchristmas2018_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/peds.meta</filename>
       <fileType>PED_METADATA_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
     <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpBiker_female.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpBiker_female_p.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpBiker_male.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpBiker_male_p.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker_p.rpf</filename>
-      <fileType>RPF_FILE</fileType>
-      <overlay value="false" />
-      <disabled value="true" />
-      <persistent value="true" />
-    </Item>
-    <Item>
-      <filename>dlc_mpBikerCRC:/common/data/pedalternatevariations.meta</filename>
+      <filename>dlc_mpChristmas2018CRC:/common/data/pedalternatevariations.meta</filename>
       <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
       <overlay value="false" />
       <disabled value="true" />
       <persistent value="false" />
     </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018CRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
 	<Item>
-	  <filename>dlc_mpBikerCRC:/common/data/effects/peds/mpBiker_overlays.xml</filename>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/sfx/dlc_AWXM2018</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpChristmas2018CRC:/common/data/effects/peds/mpChristmas2018_overlays.xml</filename>
 	  <fileType>PED_OVERLAY_FILE</fileType>
 	  <overlay value="false" />
 	  <disabled value="true" />
 	  <persistent value="false" />
 	</Item>
 	<Item>
-	  <filename>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpBiker_ped_mp_overlay_txds.rpf</filename>
+	  <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpChristmas2018_ped_mp_overlay_txds.rpf</filename>
 	  <fileType>RPF_FILE</fileType>
 	  <overlay value="false" />
 	  <disabled value="true" />
 	  <persistent value="true" />
 	</Item>
+	<Item>
+	  <filename>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/%PLATFORM%/anim/cutscene/cuts_arena.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2018:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
   </dataFiles>
   <contentChangeSets>
-	<Item>
-      <changeSetName>MPBIKER_AUTOGEN</changeSetName>
+    <Item>
+      <changeSetName>mpChristmas2018_AUTOGEN</changeSetName>
       <mapChangeSetData />
       <filesToInvalidate />
       <filesToDisable />
-      <filesToEnable>
-		<Item>dlc_mpBikerCRC:/common/data/handling.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/ai/loadouts.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/vehiclelayouts.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponanimations.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponAutoShotgun.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponBattleAxe.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponCompactLauncher.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponcomponents.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponMiniSMG.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponPipeBomb.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponPoolCue.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/ai/weaponWrench.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
-		<Item>dlc_mpBikerCRC:/common/data/effects/explosionfx.dat</Item>
-		<Item>dlc_mpBikerCRC:/common/data/carcols.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/levels/gta5/vehicles.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/carvariations.meta</Item>
-		<Item>dlc_mpBiker:/common/data/dlctext.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/explosion.meta</Item>
-		<Item>dlc_mpBiker:/common/data/interiorproxies.meta</Item>
-		<Item>dlc_mpBiker:/common/data/overlayinfo.xml</Item>
-        <Item>dlc_mpBikerCRC:/common/data/mpStatsSetup.xml</Item>
-        <Item>dlc_mpBiker:/common/data/mpStatsUISetup.xml</Item>
-        <Item>dlc_mpBikerCRC:/common/data/pedpersonality.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/pickups.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/shop_tattoo.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/shop_vehicle.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/shop_weapon.meta</Item>
-        <Item>dlc_mpBikerCRC:/common/data/weaponArchetypes.meta</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Biker_DLC_Int_Props.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Biker_DLC_Int_Props.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Coke.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Coke.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_FakeID.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_FakeID.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Meth.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Meth.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Weed.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Weed.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_GunLocker.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_GunLocker.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Clubhouse.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Clubhouse.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_deadline.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_deadline.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_PrintingMachines.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_PrintingMachines.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/MP_Biker_Money.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_MP_Biker_Money.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Mp_Biker_Deadline_Jumps.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Mp_Biker_Deadline_Jumps.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Mp_Biker_Deadline_Tubes.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Mp_Biker_Deadline_Tubes.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_rt_clubhouse_table.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_rt_clubhouse_table.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Clubhouse_Seating.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Clubhouse_Seating.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Clubhouse_Jukebox.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Clubhouse_Jukebox.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Grenades.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Grenades.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Slow_Down.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Slow_Down.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/Prop_Memorial_Wall.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/props/bkr_Prop_Memorial_Wall.ityp</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/vehicles/mpbikervehicles.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/wheels3_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/zombiea_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/zombieb_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/daemon2_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/avarus_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/sanctus_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/tornado6_mods.rpf</Item>		
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/defiler_mods.rpf</Item>		
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/vortex_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/nightblade_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/ratbike_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/chimera_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/esskey_mods.rpf</Item>	
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/hakuchou2_mods.rpf</Item>	
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/wolfsbane_mods.rpf</Item>	
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/blazer4_mods.rpf</Item>	
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/manchez_mods.rpf</Item>	
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/faggio3_mods.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/youga2_mods.rpf</Item>		
-		<Item>dlc_mpBiker:/%PLATFORM%/levels/mpbiker/vehiclemods/shotaro_mods.rpf</Item>			
-		<Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/DLCBIKER_amp.dat</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/DLCBIKER_game.dat</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/DLCBIKER_sounds.dat</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/DLCBIKER_mix.dat</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/DLCBIKER_speech.dat</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/occlusion.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/audio/sfx/DLC_BIKER</Item>
-        <Item>dlc_mpBiker:/%PLATFORM%/data/effects/ptfx.rpf</Item>
-        <Item>dlc_mpBiker:/common/data/effects/scriptfx.dat</Item>
-		<Item>dlc_mpBikerCRC:/common/data/mp_f_freemode_01_biker_shop.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/mp_m_freemode_01_biker_shop.meta</Item>
-        <Item>dlc_mpBiker:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
-        <Item>dlc_mpBiker:/common/data/effects/peds/first_person.meta</Item>
-        <Item>dlc_mpBiker:/common/data/effects/peds/first_person_alternates.meta</Item>
-        <Item>dlc_mpBiker:/common/data/peds.meta</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker_female.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker_female_p.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker_male.rpf</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker_male_p.rpf</Item>
-        <Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker.rpf</Item>
-        <Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpbiker_p.rpf</Item>
-        <Item>dlc_mpBikerCRC:/common/data/pedalternatevariations.meta</Item>
-		<Item>dlc_mpBikerCRC:/common/data/effects/peds/mpBiker_overlays.xml</Item>
-		<Item>dlc_mpBiker:/%PLATFORM%/models/cdimages/mpBiker_ped_mp_overlay_txds.rpf</Item>
-      </filesToEnable>
+	  <filesToEnable>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/loadouts.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_bruiser.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_monster3.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_scarab.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehiclelayouts_issi4.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_bruiser.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_deathbike.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_flame.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_issi4.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_scarab.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_mines.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_mines_rc.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_mortar.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_monster3.meta</Item> <!-- This needs to be loaded after vehicleweapons_mortar as it uses ammo info from it -->
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/vehicleweapons_xmas18.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/weaponanimations.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/weaponcomponents.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/weapons_arena.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/ai/weapons_spacerangers.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/explosion.meta</Item>
+	    <Item>dlc_mpChristmas2018:/common/data/interiorProxies.meta</Item>
+		<Item>dlc_mpChristmas2018:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpChristmas2018:/common/data/overlayinfo.xml</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/pedpersonality.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/pickups.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/shop_tattoo.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/shop_vehicle.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/shop_weapon.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/weaponArchetypes.meta</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/vehicles/mpChristmas2018.rpf</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlc_mpChristmas2018:/common/data/carcols.meta</Item>
+		<Item>dlc_mpChristmas2018:/common/data/carvariations.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpChristmas2018:/common/data/dlctext.meta</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/monster3_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/monster4_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/monster5_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/arenamod1_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/imperator_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/imperator3_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/imperator2_mods.rpf</Item>	
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/vamos_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deveste_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deviant_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/clique_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/scarab_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/scarab2_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/scarab3_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/issi4_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/issi5_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/issi6_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/italigto_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/toros_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/cerberus_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/cerberus2_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/cerberus3_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/brutus_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/brutus2_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/brutus3_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/schlagen_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/tulip_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler2_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler4_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/dominator4_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/dominator5_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/dominator6_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/zr380_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/zr3802_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/zr3803_mods.rpf</Item>		
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/bruiser_mods.rpf</Item>
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/bruiser2_mods.rpf</Item>
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/bruiser3_mods.rpf</Item>		
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deathbike_mods.rpf</Item>
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deathbike2_mods.rpf</Item>	
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/deathbike3_mods.rpf</Item>		
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/slamvan4_mods.rpf</Item>
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/slamvan5_mods.rpf</Item>
+	    <Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/slamvan6_mods.rpf</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/rcbandito_mods.rpf</Item>	
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/mpChristmas2018/vehiclemods/impaler3_mods.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Drones.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Drones.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Rubbish_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Rubbish_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Trinkets.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Trinkets.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Rising.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Rising.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Rising_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Rising_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Side.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Side.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Side_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Side_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Side_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Side_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Cutscene.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Cutscene.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Fences.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Fences.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Fences_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Fences_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Fences_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Fences_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Flippers.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Flippers.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Flippers_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Flippers_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Mines.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Mines.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Mines_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Mines_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Mines_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Mines_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Fire.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Fire.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Fire_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Fire_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Plates.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Plates.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Plates_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Plates_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Plates_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Plates_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Screens.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Screens.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Spikes.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Spikes.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turntables.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turntables.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Rising.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Rising.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Rising_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Rising_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Rising_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Rising_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Bollards_Rising_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Bollards_Rising_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pits_Fire_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pits_Fire_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Spikes_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Spikes_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Icons.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Icons.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Tyres.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Tyres.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Tyres_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Tyres_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Walls_Tyres_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Walls_Tyres_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Trophies.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Trophies.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Wedges.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Wedges.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turrets.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turrets.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turrets_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turrets_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turrets_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turrets_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Slowdown.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Slowdown.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Des_Buildings.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Des_Buildings.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Des_Buildings_01.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Des_Buildings_01.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Des_Skin.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Des_Skin.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Accs.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Accs.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Accs_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Accs_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Flippers_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Flippers_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Wedges_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Wedges_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Wedges_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Wedges_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turntables_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turntables_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Turntables_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Turntables_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Track_Lights_01.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Track_Lights_01.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Lights_01.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Lights_01.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Pipes.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Pipes.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Stunt.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Stunt.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Stunt_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Stunt_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Stunt_Wasteland.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Stunt_Wasteland.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Towers.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Towers.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Arena_Obstacles_Scifi.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Arena_Obstacles_Scifi.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Christmas.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Christmas.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Combined.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Combined.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Combined_02.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Combined_02.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/Prop_Int_Arena_Terrain.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_Prop_Int_Arena_Terrain.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_02.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_02.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_03.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_03.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_04.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_04.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_detail_05.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_detail_05.ityp</Item>		
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_arena_structure.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_arena_structure.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/prop_int_lounge_garage.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/props/xs_prop_int_lounge_garage.ityp</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_female.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_female_p.rpf</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/mp_f_freemode_01_mpchristmas2018_shop.meta</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_male.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/peds/mpchristmas2018.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/peds/mpchristmas2018_p.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpchristmas2018_male_p.rpf</Item>
+        <Item>dlc_mpChristmas2018:/common/data/peds.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpChristmas2018:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlc_mpChristmas2018:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/mp_m_freemode_01_mpchristmas2018_shop.meta</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlc_mpChristmas2018:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/effects/explosionfx.dat</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_game.dat</Item>
+        <Item>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_sounds.dat</Item>
+        <Item>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_mix.dat</Item>
+        <Item>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_amp.dat</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/audio/dlcAWXM2018_speech.dat</Item>
+        <Item>dlc_mpChristmas2018:/%PLATFORM%/audio/sfx/dlc_AWXM2018</Item>	
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mpChristmas2018CRC:/common/data/effects/peds/mpChristmas2018_overlays.xml</Item>
+		<Item>dlc_mpChristmas2018:/%PLATFORM%/models/cdimages/mpChristmas2018_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlc_mpChristmas2018:/common/data/effects/ptfxassetinfo.meta</Item>
+        <Item>dlc_mpChristmas2018:/%PLATFORM%/anim/cutscene/cuts_arena.rpf</Item>
+        <Item>dlc_mpChristmas2018:/common/data/effects/scriptfx.dat</Item>
+	  </filesToEnable>
       <txdToLoad />
       <txdToUnload />
       <residentResources />
@@ -1051,69 +2243,38 @@
       <requiresLoadingScreen value="false" />
     </Item>	
     <Item>
-      <changeSetName>MPBIKER_UNLOCKS_AUTOGEN</changeSetName>
+      <changeSetName>mpChristmas2018_UNLOCKS_AUTOGEN</changeSetName>
       <mapChangeSetData />
       <filesToInvalidate />
       <filesToDisable />
       <filesToEnable>
-        <Item>dlc_mpBikerCRC:/common/data/contentunlocks.meta</Item>
+		<Item>dlc_mpchristmas2018CRC:/common/data/contentunlocks.meta</Item>
       </filesToEnable>
 	  <txdToLoad />
       <txdToUnload />
       <residentResources />
       <unregisterResources />
       <requiresLoadingScreen value="false" />
-    </Item>
+    </Item>	
 	<Item>
-      <changeSetName>MPBIKER_GTA5_CITYE_INDUST_01</changeSetName>
-      <mapChangeSetData>
-        <Item>
-          <associatedMap>MO_JIM_L11</associatedMap>
-          <filesToInvalidate>
-			<Item>platform:/levels/gta5/_citye/indust_01/id1_06.rpf</Item>
-			<Item>platform:/levels/gta5/_citye/indust_01/id1_07.rpf</Item>
-			<Item>platform:/levels/gta5/_citye/indust_01/id1_23.rpf</Item>
-            <Item>platform:/levels/gta5/_citye/indust_01/id1_occl.rpf</Item>
-			<Item>platform:/levels/gta5/_citye/indust_01/indust_01.rpf</Item>
-            <Item>platform:/levels/gta5/_citye/indust_01/indust_01_metadata.rpf</Item>
-          </filesToInvalidate>
-          <filesToEnable>
-            <Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_06.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_07.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_23.rpf</Item>
-            <Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_occl.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01.rpf</Item>
-            <Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01_metadata.rpf</Item>
-          </filesToEnable>
-        </Item>
-      </mapChangeSetData>
-      <requiresLoadingScreen value="true" />
-      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
-      <useCacheLoader value="true" />
-    </Item>
-	<Item>
-      <changeSetName>MPBIKER_INTERIOR_ADDITIONS</changeSetName>
+      <changeSetName>mpChristmas2018_INTERIOR_ADDITIONS</changeSetName>
       <mapChangeSetData>
         <Item>
           <associatedMap>MO_JIM_L11</associatedMap>
           <filesToInvalidate />
           <filesToEnable>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_interior_placement.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_01.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_02.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_03.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware01.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware02.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware03.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware04.rpf</Item>
-			<Item>dlc_mpBiker:/%PLATFORM%/levels/gta5/interiors/Biker_DLC_INT_Ware05.rpf</Item>			
+			<Item>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/x18dlc_int_01.rpf</Item>
+			<Item>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/x18dlc_int_mod.rpf</Item>
+			<Item>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/x18dlc_int_vip.rpf</Item>
+			<Item>dlc_mpchristmas2018:/%PLATFORM%/levels/gta5/interiors/int_placement_xs.rpf</Item>	
+			<Item>dlc_mpChristmas2018:/%PLATFORM%/levels/gta5/mpchristmasbanners.rpf</Item>	
           </filesToEnable>
         </Item>
       </mapChangeSetData>
       <requiresLoadingScreen value="true"/>
       <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
       <useCacheLoader value="true"/>
-    </Item> 
+    </Item>
   </contentChangeSets>
   <patchFiles />
 </CDataFileMgr__ContentsOfDataFileXml>
